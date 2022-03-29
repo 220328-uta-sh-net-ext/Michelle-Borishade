@@ -1,3 +1,4 @@
+List of Git Commands
 cd :change directory
 git commit -m : snapshot of repository
 git push : add changes to github server
