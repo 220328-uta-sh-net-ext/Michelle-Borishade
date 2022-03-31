@@ -1,0 +1,1 @@
+Hello and welcome to my first and only note by git program!
