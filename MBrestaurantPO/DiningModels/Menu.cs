@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DiningModels
 {
-    internal class Menu
+    public class Menu
     {
         public string Entree { get; set; }
         private int _combo1;
@@ -28,7 +28,7 @@ namespace DiningModels
         
         public Menu()
         {
-            Entree = "Sandwich";
+            Entree = "KingsFeast";
             Combo1 = 1;
             Combo2 = 2;
             Combo3 = 3;

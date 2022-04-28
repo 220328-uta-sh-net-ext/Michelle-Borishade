@@ -3,13 +3,15 @@
     public class Diner
     {
         public string User { get; set; }
-        public string Restaurant { get; set; }
+        public int Restaurant { get; set; }
         public decimal Reviews { get; set; }
         public int RsvpTable { get; set; }
 
         
         //combo menu 3 options
-        private List<Menu> _menus;
+        public List<Menu> _menus;
+        private readonly string Client;
+
         public List<Menu> Menus
         {
             get { return _menus; }
@@ -24,10 +26,10 @@
         //Default constructor to add default values to the properties
         public int RsvpTable()
         {
-            Entree = "Sides";
-            User = 1;
-            Restaurant = 34;
-            Reviews = _4;
+            Entree = "KingsFeast";
+            User = Client;
+            Restaurant = 8;
+            Reviews = 78;
             _menus = new List<Menu>()
             {
                 new Menu(),

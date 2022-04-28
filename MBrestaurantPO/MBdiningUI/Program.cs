@@ -7,12 +7,12 @@ menu.Display();
 
 while (repeat)
 {
-        menu.Display();
+    menu.Display();
     string ans = menu.UserChoice(); //to return output in string format
 
     switch (ans)
     {
-        case "Menu and Wine Selections"://calling the method from MainMenu.cs
+        case "MenuandWineSelections":   //calling the method from MainMenu.cs
             break;
         case "Music and Show Options":
             break;
