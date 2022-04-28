@@ -2,25 +2,25 @@
     {
         "Client": "KingsFeast",
         "User": "Client",
-        "Restaurant": 10,
-        "Reviews": ".85",
+        "Restaurant": 10, //Naperville, Srpingfield, Carbondale
+        "Reviews": ".85", 
         "RsvpTable": 7,
         "Entre": 1
     }
     {
         "Client": "RoyalBanquet",
         "User": "Client",
-        "Restaurant": 8,
-        "Reviews": ".95",
+        "Restaurant": 8,  
+        "Reviews": ".95",  //user add & view; plus calculate
         "RsvpTable": 27,
         "Entree": 2
     }
 
     {
-        "Client": "TheMajesty",
+        "Client": "TheMajesty",  //Balcony or Floor & Music or Show
         "User": "Client",
-        "Restaurant": 6,
-        "Reviews": ".80",
+        "Restaurant": 6,  
+        "Reviews": ".80",  
         "RsvpTable": 17,
         "Entree": 3
     }

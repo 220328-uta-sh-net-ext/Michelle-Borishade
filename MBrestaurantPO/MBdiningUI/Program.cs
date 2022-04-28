@@ -1,5 +1,14 @@
-﻿using MBdiningUI;
+﻿global using Serilog;
+using MBdiningUI;
 
+Log.Logger = (ILogger)new LoggerConfiguration()
+    .WriteTo.File("./Logs/user.txt");
+    CreateLogger();
+
+void CreateLogger()
+{
+    throw new NotImplementedException();
+}
 
 bool repeat = true;
 Imenu menu = new MainMenu();
@@ -13,6 +22,7 @@ while (repeat)
     switch (ans)
     {
         case "MenuandWineSelections":   //calling the method from MainMenu.cs
+            Log.Debug("Displaying option menu to the user");
             break;
         case "Music and Show Options":
             break;
@@ -25,6 +35,7 @@ while (repeat)
         default:
             Console.WriteLine("Please make a selection to continue")
             Console.ReadLine();
+            Log.Error("cannot inherit this class");
             break;
 
     }
