@@ -1,13 +1,27 @@
-{
-  "compilerOptions": {
-    "noImplicitAny": false,
-    "noEmitOnError": true,
-    "removeComments": false,
-    "sourceMap": true,
-    "target": "es5"
-  },
-  "exclude": [
-    "node_modules",
-    "wwwroot"
-  ]
-}
+[
+    {
+        "Client": "KingsFeast",
+        "User": "Client",
+        "Restaurant": 10,
+        "Reviews": ".85",
+        "RsvpTable": 7,
+        "Entre": 1
+    }
+    {
+        "Client": "RoyalBanquet",
+        "User": "Client",
+        "Restaurant": 8,
+        "Reviews": ".95",
+        "RsvpTable": 27,
+        "Entree": 2
+    }
+
+    {
+        "Client": "TheMajesty",
+        "User": "Client",
+        "Restaurant": 6,
+        "Reviews": ".80",
+        "RsvpTable": 17,
+        "Entree": 3
+    }
+]
