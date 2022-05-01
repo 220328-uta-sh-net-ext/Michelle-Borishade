@@ -1,0 +1,12 @@
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\bin\Debug\net6.0\DiningBL.deps.json
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\bin\Debug\net6.0\DiningBL.dll
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\bin\Debug\net6.0\DiningBL.pdb
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.csproj.AssemblyReference.cache
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.AssemblyInfoInputs.cache
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.AssemblyInfo.cs
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.csproj.CoreCompileInputs.cache
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.dll
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\refint\DiningBL.dll
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\DiningBL.pdb
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningBL\obj\Debug\net6.0\ref\DiningBL.dll

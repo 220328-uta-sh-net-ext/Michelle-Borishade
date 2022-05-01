@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCCXZKt0XuCk4FHCstydROBbUFCu+0EMasz+JsD3ts1lzOOmAnb1FRbm9v+3CnamjxJgoGYF3EgxtuR//JuEnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbori\\Desktop\\Michelle\\Revature\\GIT\\Michelle-Borishade\\MBrestaurantPO\\MBdiningUI\\MBdiningUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbori\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\mbori\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

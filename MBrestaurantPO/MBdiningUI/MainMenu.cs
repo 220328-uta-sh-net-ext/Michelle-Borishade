@@ -11,7 +11,7 @@ namespace MBdiningUI
         public void Display()
         {
             Console.WriteLine("Welcome to Mick Fancy Dining Events");
-            Console.WriteLine("Sign in as a guest or register for White Glove Service");
+            Console.WriteLine("Sign in as a guest or press <1> register for White Glove Service");
             Console.WriteLine("Press <2> for Menu and Wine Selections");
             Console.WriteLine("Press <3> for Music and Show Options");
             Console.WriteLine("Press <4> to request Floor or Balcony Seating");
@@ -23,6 +23,8 @@ namespace MBdiningUI
 
             switch (userInput)
             {
+                case "1":
+                    return "White Glove Service";
                 case "2":
                     return "Menu ad Wine Selections";
                 case "3":

@@ -1,0 +1,5 @@
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningDL\obj\Debug\net6.0\DiningDL.csproj.AssemblyReference.cache
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningDL\obj\Debug\net6.0\DiningDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningDL\obj\Debug\net6.0\DiningDL.AssemblyInfoInputs.cache
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningDL\obj\Debug\net6.0\DiningDL.AssemblyInfo.cs
+C:\Users\mbori\Desktop\Michelle\Revature\GIT\Michelle-Borishade\MBrestaurantPO\DiningDL\obj\Debug\net6.0\DiningDL.csproj.CoreCompileInputs.cache

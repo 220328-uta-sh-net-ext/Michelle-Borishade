@@ -1,9 +1,12 @@
 ﻿global using Serilog;
+
 using MBdiningUI;
 
+
+
 Log.Logger = (ILogger)new LoggerConfiguration()
-    .WriteTo.File("./Logs/user.txt");
-    CreateLogger();
+    .WriteTo.File("./Logs/user.txt")
+    .CreateLogger();
 
 void CreateLogger()
 {
@@ -26,14 +29,14 @@ while (repeat)
             break;
         case "Music and Show Options":
             break;
-        case "Floor or Balcony Seatinng":
+        case "Floor or Balcony Seating":
             menu = new MainMenu();
             Console.WriteLine("Please check in at the Chandelier Room upon arrival");
             break;
         
         
         default:
-            Console.WriteLine("Please make a selection to continue")
+            Console.WriteLine("Please make a selection to continue");
             Console.ReadLine();
             Log.Error("cannot inherit this class");
             break;

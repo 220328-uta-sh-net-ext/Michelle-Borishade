@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBdiningUI", "MBdiningUI\MBdiningUI.csproj", "{F1E113F0-A64E-412F-9E58-3F15B575F9F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MBdiningUI", "MBdiningUI\MBdiningUI.csproj", "{F1E113F0-A64E-412F-9E58-3F15B575F9F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningModels", "DiningModels\DiningModels.csproj", "{F1B2FF40-EC62-4100-9079-37C529957439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiningModels", "DiningModels\DiningModels.csproj", "{F1B2FF40-EC62-4100-9079-37C529957439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningBL", "DiningBL\DiningBL.csproj", "{EFE1DA07-AA12-426E-BC97-93F17CA5A5C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiningBL", "DiningBL\DiningBL.csproj", "{EFE1DA07-AA12-426E-BC97-93F17CA5A5C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningDL", "DiningDL\DiningDL.csproj", "{E737D898-B220-4916-8D18-8983B5E2B1EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiningDL", "DiningDL\DiningDL.csproj", "{E737D898-B220-4916-8D18-8983B5E2B1EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MBFancyTest", "MBFancyTest\MBFancyTest.csproj", "{F1BF9FF4-B891-4C5B-B2BB-BB5FD3B92F4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85A52EA0-392A-415F-B8C6-EAC18D1642E4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		SQLAccess.txt = SQLAccess.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,10 @@ Global
 		{E737D898-B220-4916-8D18-8983B5E2B1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E737D898-B220-4916-8D18-8983B5E2B1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E737D898-B220-4916-8D18-8983B5E2B1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BF9FF4-B891-4C5B-B2BB-BB5FD3B92F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BF9FF4-B891-4C5B-B2BB-BB5FD3B92F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BF9FF4-B891-4C5B-B2BB-BB5FD3B92F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BF9FF4-B891-4C5B-B2BB-BB5FD3B92F4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
